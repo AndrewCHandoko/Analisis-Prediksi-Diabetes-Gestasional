@@ -10,4 +10,4 @@ Dalam penelitian ini dilakukan analisa terhadap metode Supervised Learningdengan
 In this study, an analysis of the Supervised Learning method was carried out by comparing the prediction results of each method, in order to get the best algorithm, which can be developed in the future as one of the media to facilitate the detection of Gestational Diabetes. Predictions were made on the Gestational Diabetes Dataset obtained from Kaggle, entitled “Diabetes Dataset” which comes from the National Institute of Diabets and Digestive and Kidney Diseases. Where the analysis will use the help of Software Orange, as a place to do data processing and see the predicted value of each algorithm in the Supervised Learning method. There are seven algorithms compared, with the Recall value as the number one de-terminant of an algorithm that is considered goodfor making predictions, followed by the values for Accuracy, Precision, Test Time and Train Time. And with Orange's help, the best algorithm is Logistic Regression.
 
 <h2>Link Publikasi : </h2>
-bit.ly/achpublished1
+https://bit.ly/achpublished1
