@@ -1,6 +1,7 @@
 <h1>PERBANDINGAN METODE SUPERVISED LEARNING UNTUK PREDIKSI DIABETES GESTASIONAL DENGAN SOFTWARE ORANGE</h1>
-<h2>Andrew C Handoko</h2>
-<h2>Hendry Hendry</h2>
+
+<h2>Penulis</h2>
+Andrew C Handoko, Hendry
 
 <h2>Abstrak</h2>
 Dalam penelitian ini dilakukan analisa terhadap metode Supervised Learningdengan membandingkan hasil prediksi dari tiap metode, guna mendapatkan algoritma terbaik, yang dapat dikembangkan kedepannya sebagai salah satu media untuk mempermudah deteksi Diabetes Ges-tasional. Prediksi dilakukan terhadap DatasetDiabetes Gestasionalyang di dapat dari Kaggle, dengan judul “Diabetes Dataset” yang berasal dari National Institute of Diabetsand Digestive and Kidney Diseases. Dimana analisis akan menggunakan bantuan Software Orange, sebagai tempat un-tuk melakukan pengolahan data dan melihat nilai hasil prediksi dari mas-ing-masing algoritma yang ada di metode Supervised Learning. Algo-ritma yang dibandingkan ada tujuh, dengan nilai Recallsebagai penentu no satu algoritma yang dianggap bagus untuk melakukan prediksi, diikuti dengan nilai Akurasi, Precisision, Test Timedan Train Time. Dan dengan bantuan Orange, maka di dapat algoritmayang paling bagus adalah Lo-gistic Regression.
